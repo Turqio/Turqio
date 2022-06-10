@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Garl2bl
+- 👋 Hi, I’m Garl
 - 👀 I’m interested about technology and privacy
 - 🌱 I’m currently learning basic codes
 - 💞️ I’m looking to collaborate on Github, and Instagram
