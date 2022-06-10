@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Garl2bl
 - 👀 I’m interested about technology and privacy
 - 🌱 I’m currently learning basic codes
-- 💞️ I’m looking to collaborate on ithub, Instagram, 
+- 💞️ I’m looking to collaborate on Github, Instagram, 
 - 📫 How to reach me, visit my website, email, channel, account and more. 
 
 <!---
