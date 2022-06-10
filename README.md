@@ -2,7 +2,7 @@
 - 👀 I’m interested about technology and privacy
 - 🌱 I’m currently learning basic codes
 - 💞️ I’m looking to collaborate on Github, Instagram, 
-- 📫 How to reach me, visit my website, email, channel, account and more. 
+- 📫 How to reach me: visit my website, email, channel, account and more. 
 
 <!---
 Garl2bl/Garl2bl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
