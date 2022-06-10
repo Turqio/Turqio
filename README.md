@@ -2,7 +2,7 @@
 - 👀 I’m interested about technology and privacy
 - 🌱 I’m currently learning basic codes
 - 💞️ I’m looking to collaborate on Github, and Instagram
-- 📫 How to reach me: visit my website "zeesque.me", email "gagirlblue1@yandex.com", and channel "Garl 2bl" 
+- 📫 How to reach me: visit my website "zeesque.me", email "gagirlblue1@yandex.com", Instagram "zeesque5" and YouTube "Garl 2bl" 
 
 <!---
 Garl2bl/Garl2bl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
