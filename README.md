@@ -2,4 +2,4 @@
 - 👀 I’m interested about technology and privacy
 - 🌱 I’m currently learning basic codes
 - 💞️ I’m looking to collaborate on Github, and Instagram
-- 📫 How to reach me: visit my website "zeesque.me", email "@", Instagram "zeesque5" and YouTube "Turqio" 
+- 📫 How to reach me: visit my website "zeesque.me", email "userview909@gmail.com", Instagram "zeesque5" and YouTube "Turqio" 
