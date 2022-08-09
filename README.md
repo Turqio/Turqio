@@ -1,5 +1,5 @@
 - 👋 Hi, I’m turqio
-- 👀 I’m interested about tech especially about software engineering, art esp 'bout animating and drawing, photography and write esp 'bout novel writing.
+- 👀 I’m interested about tech especially about software engineering, art esp 'bout animating and drawing, photography and writing esp 'bout novel writing.
 - 🌱 I’m currently learning basic codes, unity, and blender
 - 💞️ I’m looking to collaborate on Github, and Instagram
 - 📫 How to reach me: visit my website "zeesque.me", email "userview909@gmail.com", Instagram "zeesque5" and YouTube "Turqio" 
