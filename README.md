@@ -2,4 +2,4 @@
 - 👀 I’m interested about tech especially about software engineering, art esp 'bout animating and drawing, photography and writing esp 'bout novel writing.
 - 🌱 I’m currently learning basic codes, unity, adobe and blender
 - 💞️ I’m looking to collaborate on Github and youtube
-- 📫 How to reach me: visit my website "zeesque.me", email "userview909@gmail.com", Instagram and YouTube "Turqio" 
+- 📫 How to reach me: visit my website "zeesque.me", email "userview909@gmail.com", and YouTube "Turqio" 
