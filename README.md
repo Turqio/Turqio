@@ -1,5 +1,5 @@
 - 👋 Hi, I’m turqio
 - 👀 I’m interested about tech, art and writing
-- 🌱 I’m currently learning web 3
+- 🌱 I’m currently learn
 - 💞️ I’m looking to collaborate on Github
-- 📫 Other ways to reach me: email "userview909@gmail.com" 
+- 📫 Other ways to reach me: email "" 
