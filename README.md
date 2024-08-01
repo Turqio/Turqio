@@ -1,5 +1,5 @@
-- 👋 Hi, I’m turqio
-- 👀 I’m interested about tech, art and writing
-- 🌱 I’m currently learn
+- 👋 Hi, I’m Turqio
+- 👀 I’m interested about tech, art and story writing
+- 🌱 I’m currently learn digital marketing
 - 💞️ I’m looking to collaborate on Github
-- 📫 Other ways to reach me: email "" 
+- 📫 Other ways to reach me: email "nisriina.sausan56@smk.belajar.id" 
